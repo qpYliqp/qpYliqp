@@ -16,7 +16,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/2
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/21wuu7hk3qqzbwdrx3zw3275a
+
 
 <br />
 
@@ -61,5 +62,5 @@
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/2/
+[Spotify]: https://open.spotify.com/user/21wuu7hk3qqzbwdrx3zw3275a
 
