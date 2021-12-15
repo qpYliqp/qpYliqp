@@ -1,4 +1,4 @@
-# Yli Git <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Yli Space
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -6,12 +6,14 @@
 
 - 📚 I’m currently studying computer science.
 - 👀 I like to observe what other people do.
-- 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+<img align="right" alt="GIF" height="170px" src="https://c.tenor.com/WJYaqBmuyK0AAAAd/futaba-anime.gif" />
+
 
 ### Spotify Playing 🎧
 
