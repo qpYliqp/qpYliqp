@@ -8,7 +8,7 @@
 - 👀 I like to observe what other people do.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-<img align="right" alt="GIF" height="500px" width = "500px" justify-content : center src="https://c.tenor.com/WJYaqBmuyK0AAAAd/futaba-anime.gif" />
+<img align="right" alt="GIF" height="500px" width = "500px" src="https://c.tenor.com/WJYaqBmuyK0AAAAd/futaba-anime.gif" />
 
 ---
 
