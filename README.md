@@ -8,18 +8,6 @@
 - 👀 I like to observe what other people do.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/21wuu7hk3qqzbwdrx3zw3275a)
-
-
-<br />
 
 ---
 
