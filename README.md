@@ -6,8 +6,6 @@
 
 - 📚 I’m currently studying computer science.
 - 👀 I like to observe what other people do.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
 
 ---
 
