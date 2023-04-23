@@ -14,7 +14,7 @@
 
 | ARCHIVE #4548 |
 | --- | 
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wuu7hk3qqzbwdrx3zw3275a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) |
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wuu7hk3qqzbwdrx3zw3275a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/21wuu7hk3qqzbwdrx3zw3275a) |
 
 </div>
   <img src="https://i.pinimg.com/originals/4f/83/ec/4f83ec563dbcfe623cbbeb77305d954e.gif" alt="image" width="100%" height="70vh" style="vertical-align: middle; margin-left: 20px;">
