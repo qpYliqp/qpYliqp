@@ -1,9 +1,25 @@
-```
-                                                        YOU ENTERED IN THE LAB-007
-```
-| Information-05542                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wuu7hk3qqzbwdrx3zw3275a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) [<img src="https://www.cartonionline.com/wordpress/wp-content/uploads/2023/02/goku.jpg" width="50">](https://www.cartonionline.com/)
+<p align="center">
+  <img src="https://i.imgur.com/GRSrswl.gif" alt="image" width="20%" style="vertical-align: middle; margin-left: 20px;">
+  <strong>YOU ENTERED IN THE LAB-077</strong>
+  <img src="https://i.imgur.com/GRSrswl.gif" alt="image" width="20%" style="vertical-align: middle; margin-left: 20px;">
+</p>
+<div><p>   </p></div>
+<div><p>   </p></div>
+<div><p>   </p></div>
+
+<div></div>
+<div></div>
+<div></div>
+<div align="center">
+
+| ARCHIVE #4548 |
+| --- | 
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wuu7hk3qqzbwdrx3zw3275a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) |
+
+</div>
+  <img src="https://i.pinimg.com/originals/4f/83/ec/4f83ec563dbcfe623cbbeb77305d954e.gif" alt="image" width="100%" height="70vh" style="vertical-align: middle; margin-left: 20px;">
+
+
 
 
 
