@@ -14,13 +14,13 @@
 
 | ARCHIVE #4548 | RESEARCH #11 |
 | --- | --- |
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wuu7hk3qqzbwdrx3zw3275a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/21wuu7hk3qqzbwdrx3zw3275a) |    <img src="https://i.pinimg.com/originals/4f/83/ec/4f83ec563dbcfe623cbbeb77305d954e.gif" alt="image" width="100%" height="70vh" style="vertical-align: middle; margin-left: 20px;"> 
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wuu7hk3qqzbwdrx3zw3275a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/21wuu7hk3qqzbwdrx3zw3275a) |    <img src="https://cdn.akamai.steamstatic.com/steam/apps/1382330/extras/2-citynightmare.gif?t=1704380325" alt="image" width="100%" height="100%" style="vertical-align: middle; margin-left: 20px;"> 
   |  | [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=qpYliqp)](https://leetcode.com/qpYliqp/)
 
 
 </div>
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://cdn.akamai.steamstatic.com/steam/apps/1382330/extras/2-citynightmare.gif?t=1704380325" alt="image" style="margin-right: 10000px">
+   <!-- <img src="https://cdn.akamai.steamstatic.com/steam/apps/1382330/extras/2-citynightmare.gif?t=1704380325" alt="image" style="margin-right: 10000px"> --!>
 </div>
 
 
