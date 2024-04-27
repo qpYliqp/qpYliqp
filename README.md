@@ -14,8 +14,8 @@
 
 | ARCHIVE #4548 | RESEARCH #11 |
 | --- | --- |
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wuu7hk3qqzbwdrx3zw3275a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/21wuu7hk3qqzbwdrx3zw3275a) |    <img src="https://24.media.tumblr.com/39d4ce68a881ce60043533df4252277a/tumblr_mi88dbXIpt1s0qwlko1_r1_400.gif" alt="image" width="100%" height="100%" style="vertical-align: middle; margin-left: 20px;"> 
-  |  | [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=qpYliqp)](https://leetcode.com/qpYliqp/)
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wuu7hk3qqzbwdrx3zw3275a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/21wuu7hk3qqzbwdrx3zw3275a) | 
+| ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) <br> ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)  ![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=for-the-badge) <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=for-the-badge" alt="Qt Badge"> <br> <div width="100px"><img src="https://24.media.tumblr.com/39d4ce68a881ce60043533df4252277a/tumblr_mi88dbXIpt1s0qwlko1_r1_400.gif" alt="image" width="10%"> </div>| [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=qpYliqp)](https://leetcode.com/qpYliqp/)
 
 
 </div>
