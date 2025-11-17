@@ -1,4 +1,3 @@
-# 📚 Research Archives — README
 
 <div align="center">
 
@@ -17,7 +16,13 @@
 
 ---
 
-## 🎧 Current Experiment Soundtrack
+
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY3bXloazRlaGJlYWs2NHdnbHF5dTZoOWZ3YmttZTg1NXkwYTJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YQMiQtopRjjZRSYRJF/giphy.gif" width="52" alt="Lab Animation"> **ARCHIVE #33**
+*Experimental Soundtrack*
+
+
 
 <div align="center">
 
@@ -27,7 +32,9 @@
 
 ---
 
-## 🧪 Technologies Under Investigation
+## <img src="https://i.pinimg.com/originals/fe/4c/43/fe4c439f3a1be55b255b19718bd01c52.gif" width="50" alt="Lab Animation"> Technologies Under Investigation
+
+
 
 <div align="center">
 
