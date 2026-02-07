@@ -1,5 +1,6 @@
 
-![Bannière LinkedIn Professionnelle Simple Colorée](https://github.com/user-attachments/assets/537a2fd2-daca-421a-aa95-2f0c78f73736)
+![banniere](https://github.com/user-attachments/assets/1c5c9521-6e10-4416-9366-0d3e56b22c9b)
+
 ---
 <div align="center">
 
@@ -48,5 +49,7 @@
 </div>
 
 ---
-![BannireLinkedInProfessionnelleSimpleColore-ezgif com-optimize](https://github.com/user-attachments/assets/fe72db52-9674-4e86-9a27-c669ed3be839)
+
+![Pi7_GIF_CMP](https://github.com/user-attachments/assets/e3051d85-9975-4246-bad8-e3c9bced8343)
+
 
