@@ -14,7 +14,7 @@
   <sub><i>Experimental Soundtrack</i></sub>
 
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21wuu7hk3qqzbwdrx3zw3275a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-recently-played-readme.vercel.app/api?user=21wuu7hk3qqzbwdrx3zw3275a)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21wuu7hk3qqzbwdrx3zw3275a\&cover_image=true\&theme=default\&show_offline=false\&background_color=121212\&interchange=true\&bar_color=53b14f\&bar_color_cover=false)](https://spotify-recently-played-readme.vercel.app/api?user=21wuu7hk3qqzbwdrx3zw3275a)
 
 </div>
 
